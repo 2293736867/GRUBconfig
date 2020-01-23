@@ -1,0 +1,9 @@
+DEEPIN_GFXMODE_ADJUSTED=1
+GRUB_CMDLINE_LINUX=""
+GRUB_CMDLINE_LINUX_DEFAULT="splash quiet "
+GRUB_DEFAULT="saved"
+GRUB_SAVEDEFAULT=true
+GRUB_DISTRIBUTOR="`/usr/bin/lsb_release -d -s 2>/dev/null || echo Deepin`"
+GRUB_GFXMODE=1920x1080
+GRUB_THEME=/boot/grub/themes/Plasma-light/theme.txt
+GRUB_TIMEOUT=8
